@@ -1,4 +1,4 @@
-import "../css/ExpensesList.css";
+import "../../css/ExpensesList.css";
 import ExpenseItem from "./ExpenseItem";
 
 const ExpensesList = (props) => {
